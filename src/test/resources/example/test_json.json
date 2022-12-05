@@ -1,0 +1,11 @@
+{
+  "id": "321",
+  "name": "Roman Vasin",
+  "telephone": "79200000000",
+  "pets": ["cat","dog"],
+  "address": {
+    "street": "main",
+    "town": "Moscow",
+    "postcode": "123456"
+}
+}
